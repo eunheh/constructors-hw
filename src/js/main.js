@@ -1,6 +1,6 @@
 import {it, expect} from "./test_lib";
 import { Dog } from "./constructors/dog";
-import { Person } from "./constructors/person";
+import { Person as Human } from "./constructors/person";
 
 // Uncomment the line below for Hard Mode
 // Only do this *AFTER* the Normal Mode is finished!
